@@ -1,0 +1,124 @@
+body {
+    margin: 0 auto
+}
+
+.viravnivanie {
+    margin: 0 auto;
+    width: 1900px;
+    height: 70px;
+    background-color: rgb(119, 5, 5);
+    position: fixed
+}
+
+.viravni {
+    margin: 0 auto;
+    height: 300px;
+    width: 1300px;
+}
+
+.box1 {
+    height: 30px;
+    width: 300px;
+    border: 2px solid black;
+    margin-left: 15px;
+    margin-top: 5px;
+    float: left;
+    text-align: center;
+    background-color: rgb(187, 172, 172);
+    text-decoration: none;
+    color: black;
+    padding-top: 20px;
+    text-decoration: rgb(56, 52, 52);
+}
+
+.box2 {
+    height: 30px;
+    width: 300px;
+    border: 2px solid black;
+    margin-left: 150px;
+    margin-top: 5px;
+    float: left;
+    text-align: center;
+    background-color: rgb(187, 172, 172);
+    text-decoration: none;
+    color: black;
+    padding-top: 20px;
+    text-decoration: rgb(56, 52, 52);
+}
+
+.box3 {
+    height: 30px;
+    width: 300px;
+    border: 2px solid black;
+    margin-left: 205px;
+    margin-top: 5px;
+    float: left;
+    text-align: center;
+    background-color: rgb(187, 172, 172);
+    text-decoration: none;
+    color: black;
+    padding-top: 20px;
+    text-decoration: rgb(56, 52, 52);
+}
+
+.caculya {
+    margin: 0 auto;
+    border: 2px solid black;
+    width: 1500px;
+    height: 1600px;
+    background-color: rgb(102, 0, 0)
+}
+
+.box4 {
+    height: 400px;
+    width: 600px;
+    border: 2px solid black;
+    margin-left: 440px;
+    margin-top: 100px;
+    text-align: center;
+    background-color: rgb(187, 172, 172);
+    text-decoration: none;
+    color: black;
+    padding-top: 20px;
+}
+
+.korobka {
+    float: left;
+    height: 200px;
+    width: 200px;
+    margin-left: 30px;
+    border: 2px solid black; 
+}
+
+.opisanie {
+    float: left;
+    height: 300px;
+    width: 250px;
+    margin-left: 30px;
+}
+
+.box5 {
+    height: 400px;
+    width: 600px;
+    border: 2px solid black;
+    margin-left: 440px;
+    margin-top: 100px;
+    text-align: center;
+    background-color: rgb(187, 172, 172);
+    text-decoration: none;
+    color: black;
+    padding-top: 20px;
+}
+
+.box6 {
+    height: 400px;
+    width: 600px;
+    border: 2px solid black;
+    margin-left: 440px;
+    margin-top: 100px;
+    text-align: center;
+    background-color: rgb(187, 172, 172);
+    text-decoration: none;
+    color: black;
+    padding-top: 20px;
+}
